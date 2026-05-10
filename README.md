@@ -2,7 +2,7 @@
 
 # ✨ Hey, I'm Gowri ✨
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Machine+Learning+Enthusiast;Backend+[...]
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Machine+Learning+Enthusiast;Backend+Developer" alt="Typing SVG" />
 
 </div>
 
@@ -50,7 +50,7 @@ creative problem-solving, and meaningful technology.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,flask,react,html,css,js,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,django,flask,react,html,css,js,mysql,git,github,vscode" alt="Tech Stack Icons" />
 
 </p>
 
@@ -105,9 +105,9 @@ Machine Learning • Backend Development Basics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gowribh&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gowribh&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="GitHub Stats" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowribh&layout=compact&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowribh&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top Languages" />
 
 </p>
 
