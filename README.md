@@ -2,7 +2,7 @@
 
 # ✨ Hey, I'm Gowri ✨
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Machine+Learning+Enthusiast;Backend+[...]
+
 
 </div>
 
