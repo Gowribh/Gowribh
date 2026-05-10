@@ -2,7 +2,7 @@
 
 # ✨ Hey, I'm Gowri ✨
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Machine+Learning+Enthusiast;Backend+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Machine+Learning+Enthusiast;Backend+[...]
 
 </div>
 
@@ -10,25 +10,21 @@
 
 ## 🌸 About Me
 
-```python
-class Gowri:
+👤 **Role:** Aspiring Software Developer
 
-    def __init__(self):
-        self.role = "Aspiring Software Developer"
-        self.skills = ["Python", "Django", "SQL", "Machine Learning"]
-        self.interests = [
-            "Backend Development",
-            "Healthcare Tech",
-            "Cloud & Data Engineering",
-            "AI Solutions"
-        ]
+🛠️ **Skills:** Python • Django • SQL • Machine Learning
 
-    def mindset(self):
-        return "Creative mind with analytical thinking ✨"
+💡 **Interests:**
+- Backend Development
+- Healthcare Tech
+- Cloud & Data Engineering
+- AI Solutions
 
-    def current_focus(self):
-        return "Building impactful tech projects & growing every day 🚀"
-```
+🧠 **Mindset:** Creative mind with analytical thinking ✨
+
+🎯 **Current Focus:** Building impactful tech projects & growing every day 🚀
+
+---
 
 💻 Computer Science Engineering graduate passionate about building
 data-driven and impactful software solutions.
@@ -58,12 +54,7 @@ creative problem-solving, and meaningful technology.
 
 ### 📚 Libraries & Tools
 
-```txt
-Python • SQL • Pandas • NumPy • Scikit-learn
-Flask • Django • REST APIs • Jupyter Notebook
-Git/GitHub • VS Code • Data Preprocessing
-Machine Learning • Backend Development Basics
-```
+Python • SQL • Pandas • NumPy • Scikit-learn • Flask • Django • REST APIs • Jupyter Notebook • Git/GitHub • VS Code • Data Preprocessing • Machine Learning • Backend Development Basics
 
 ---
 
