@@ -1,9 +1,8 @@
-```
 <div align="center">
 
 # ✨ Hey, I'm Gowri ✨
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Machine+Learning+Enthusiast;Backend+%26+Data+Engineering+Learner;Building+real-world+projects+with+code+💻;Dreaming+big+%26+coding+bigger+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Machine+Learning+Enthusiast;Backend+[...]
 
 </div>
 
@@ -29,7 +28,7 @@ class Gowri:
 
     def current_focus(self):
         return "Building impactful tech projects & growing every day 🚀"
-````
+```
 
 💻 Computer Science Engineering graduate passionate about building
 data-driven and impactful software solutions.
@@ -148,7 +147,6 @@ Machine Learning • Backend Development Basics
 
 <div align="center">
 
-✨ “Code. Create. Grow. Repeat.” ✨
+✨ "Code. Create. Grow. Repeat." ✨
 
 </div>
-```
