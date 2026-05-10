@@ -1,16 +1,154 @@
-## Hi there 👋
+````md
+<div align="center">
 
-<!--
-**Gowribh/Gowribh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ✨ Hey, I'm Gowri ✨
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Machine+Learning+Enthusiast;Backend+%26+Data+Engineering+Learner;Building+real-world+projects+with+code+💻;Dreaming+big+%26+coding+bigger+🚀" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🌸 About Me
+
+```python
+class Gowri:
+
+    def __init__(self):
+        self.role = "Aspiring Software Developer"
+        self.skills = ["Python", "Django", "SQL", "Machine Learning"]
+        self.interests = [
+            "Backend Development",
+            "Healthcare Tech",
+            "Cloud & Data Engineering",
+            "AI Solutions"
+        ]
+
+    def mindset(self):
+        return "Creative mind with analytical thinking ✨"
+
+    def current_focus(self):
+        return "Building impactful tech projects & growing every day 🚀"
+````
+
+💻 Computer Science Engineering graduate passionate about building
+data-driven and impactful software solutions.
+
+🌱 Currently exploring Full Stack Development, REST APIs,
+Machine Learning workflows, and backend systems.
+
+🧠 Interested in Healthcare AI, Cloud Technologies,
+Data Engineering, and scalable applications.
+
+✨ Strong believer in continuous learning, clean UI,
+creative problem-solving, and meaningful technology.
+
+---
+
+# 💻 Tech Stack
+
+### 🚀 Languages & Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,flask,react,html,css,js,mysql,git,github,vscode" />
+
+</p>
+
+---
+
+### 📚 Libraries & Tools
+
+```txt
+Python • SQL • Pandas • NumPy • Scikit-learn
+Flask • Django • REST APIs • Jupyter Notebook
+Git/GitHub • VS Code • Data Preprocessing
+Machine Learning • Backend Development Basics
+```
+
+---
+
+# 🚀 Featured Projects
+
+## 🧠 Detection and Staging of Liver Fibrosis
+
+🔹 Built a Flask-based CNN healthcare application
+🔹 Performed data preprocessing & feature handling
+🔹 Achieved 87% prediction accuracy using Deep Learning
+🔹 Worked with Python, TensorFlow, Keras & ML workflows
+
+---
+
+## 🛡️ SafeCommute – Travel Safety Tracker
+
+🔹 Smart travel safety web application
+🔹 Uses Geolocation API & background tracking concepts
+🔹 Focused on user safety, real-time tracking & alerts
+
+---
+
+## 📚 Student Result Management System
+
+🔹 SQL-based academic management system
+🔹 Implemented authentication & backend logic
+🔹 Reduced manual workflow processing by 40%
+
+---
+
+## 🌉 Lift Over Bridge Animation
+
+🔹 Interactive simulation using OpenGL & Pygame
+🔹 Improved visualization & rendering logic understanding
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gowribh&show_icons=true&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowribh&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+# 🌸 Currently Learning
+
+* Advanced Django Development
+* React Frontend Architecture
+* REST API Development
+* Cloud & Data Engineering Concepts
+* Deployment & Scalable Backend Systems
+
+---
+
+# ✨ Little Things About Me
+
+🌷 I enjoy aesthetic and minimal UI designs
+🎧 Music + coding = perfect combination
+☕ Late-night debugging survivor
+📸 Creative, curious, and always learning
+💫 Turning ideas into real-world projects one commit at a time
+
+---
+
+<div align="center">
+
+# 💌 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-9370DB?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/gowri-hotagond/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github)](https://github.com/Gowribh)
+
+</div>
+
+---
+
+<div align="center">
+
+✨ “Code. Create. Grow. Repeat.” ✨
+
+</div>
+```
